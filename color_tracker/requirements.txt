@@ -1,0 +1,6 @@
+pytest
+pylint
+pytest-cov
+black
+numpy
+opencv-python
